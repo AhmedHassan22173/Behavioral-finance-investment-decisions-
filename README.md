@@ -1,3 +1,2 @@
 #Impact of Behavioral Finance on Investment Decisions
-This repository contains datasets, pivot tables, and chart outputs used for the study on the impact of behavioral finance on investment decisions. It includes analyses of the COVID-19 market crash, Tesla stock trends, and S&P 500 historical patterns. All files are provided to ensure transparency and to support replication or further exploration by interested researchers.
-
+To ensure transparency, reproducibility, and to facilitate future research, all pivot tables, charts, and processed datasets employed in this study have been uploaded to a dedicated GitHub repository. This repository includes Google Sheets exports and additional supporting files that document each stage of the analysis. By making these materials publicly accessible, the study aligns with open science principles, enabling other researchers and practitioners to validate the findings or extend the analysis within the behavioral finance context.
